@@ -1,0 +1,9 @@
+streamlit
+numpy
+Pillow
+matplotlib
+opencv-python
+trimesh
+plotly
+numpy-stl
+reportlab
